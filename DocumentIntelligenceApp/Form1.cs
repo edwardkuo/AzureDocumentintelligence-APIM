@@ -15,9 +15,9 @@ namespace DocumentIntelligenceApp;
 public partial class Form1 : Form
 {
     // Azure Document Intelligence configuration
-    private const string EndpointUrl = "https://ed-ai-api.azure-api.net/OA/";
-    private const string ApiKey = "cc8cb004a09e4335bb65f0b080e25fb8";
-    private const string JwtToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkFrYXNoIE1haGFsZSIsImFkbWluIjp0cnVlLCJleHAiOjE4NjI4NDIzMDB9.fZRnHyh30Qfo0L5UXdFv3eq7CcQeguN59Dp3rgsq6WY";
+    private const string EndpointUrl = "APIM UDL";
+    private const string ApiKey = "APIM Subscription Key";
+    private const string JwtToken = "JWT Token";
 
     // Store the client globally
     private DocumentAnalysisClient _client;
