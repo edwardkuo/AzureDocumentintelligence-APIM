@@ -85,7 +85,7 @@ private const string ApiKey = "";
    - 表格資料（如有）
 
 ## ⚠️ APIM配置
-
+```json
 {
     "openapi": "3.0.1",
     "info": {
@@ -138,5 +138,5 @@ private const string ApiKey = "";
         "apiKeyQuery": []
     }]
 }
-
 ---
+
