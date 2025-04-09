@@ -1,0 +1,2 @@
+# AzureDocumentintelligence-APIM
+透過APIM呼叫Document intelligence
